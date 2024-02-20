@@ -1,0 +1,19 @@
+{
+  "name": "speedtyping",
+  "version": "1.0.0",
+  "description": "speedtyping public url",
+  "main": "index.html",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifyunaiya/speedtyping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifyunaiya/speedtyping/issues"
+  },
+  "homepage": "https://github.com/ifyunaiya/speedtyping#readme"
+}

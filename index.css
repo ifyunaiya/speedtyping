@@ -1,0 +1,20 @@
+body {
+  height:100vh;
+  color:rgb(100, 100, 159);
+}
+
+
+
+.hidden {
+  display:none;
+}
+.wrong {
+    color: Red;
+  }
+  
+  .correct {
+    color: green;
+  }
+  .removed {
+    color: black;
+  }
