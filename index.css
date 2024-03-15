@@ -1,7 +1,18 @@
-body {
-  height:100vh;
-  color:rgb(100, 100, 159);
+
+html {
+  box-sizing: border-box;
 }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+  height:100vh;
+  background-color:rgb(164, 205, 223) !important;
+  font-family: verdana, Arial ,Genevea, Arial Black;
+  font-size:25px;
+}
+
 
 
 

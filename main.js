@@ -104,6 +104,7 @@ function checkcorrect(typedchar) {
 
 function readData(){ 
     inputArea.addEventListener('input', () =>{
+        document.getElementsByClassName('text-wrap')[0].classList.add('invisible');
         typedchar = inputArea.value.split('');
         correctcharacter = checkcorrect(typedchar);
         
